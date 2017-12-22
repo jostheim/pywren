@@ -324,4 +324,5 @@ modules = [
     ('tblib', False),
     ('dill', False),
     ('multiprocess', False),
+    ('astropy', False),
 ]
